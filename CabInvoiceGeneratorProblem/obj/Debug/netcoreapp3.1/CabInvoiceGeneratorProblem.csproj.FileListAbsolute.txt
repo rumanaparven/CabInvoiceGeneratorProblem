@@ -1,0 +1,12 @@
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.exe
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.deps.json
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.runtimeconfig.json
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.runtimeconfig.dev.json
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.dll
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.pdb
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.AssemblyInfoInputs.cache
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.AssemblyInfo.cs
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.csproj.CoreCompileInputs.cache
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.dll
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.pdb
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.genruntimeconfig.cache
