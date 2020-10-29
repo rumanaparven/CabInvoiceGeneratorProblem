@@ -10,3 +10,4 @@ C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProbl
 C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.dll
 C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.pdb
 C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.genruntimeconfig.cache
+C:\Users\RUMANA\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorProblem.csprojAssemblyReference.cache
