@@ -10,6 +10,10 @@ namespace CabInvoiceGeneratorProblem
         private double totalFare;
         private double averageFare;
 
+        public double GetTotalFare()
+        {
+            return this.totalFare;
+        }
         public InvoiceSummary(int numberOfRides,double totalFare)
         {
             this.numberOfRides = numberOfRides;
